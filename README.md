@@ -1,0 +1,2 @@
+# Fault-detection-and-diagnosis-through-Machine-Learning-algorithms
+This repository stores a collection of experiments carried out during the development of machine learning models for automatic fault detection and diagnosis in machinery. It includes references to datasets, notebooks containing the code used in the development of various models, as well as summaries of the experiments and obtained results.
