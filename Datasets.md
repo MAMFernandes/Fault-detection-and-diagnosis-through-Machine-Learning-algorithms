@@ -1,4 +1,4 @@
-#Datasets
+Datasets
 
 Developing and testing novel intelligent approaches for the automatic detection and diagnosis of faults would be practically impossible without the availability of reliable datasets serving as
 a foundation for such studies.
